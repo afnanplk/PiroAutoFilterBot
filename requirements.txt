@@ -1,9 +1,9 @@
 pyrogram>=2.0.30
 tgcrypto
-pymongo[srv]
-motor[srv]
+pymongo
+motor
 marshmallow==3.14.1
-umongo==[srv]
+umongo
 requests
 bs4
 git+https://github.com/ritheshrkrm/cinemagoer
